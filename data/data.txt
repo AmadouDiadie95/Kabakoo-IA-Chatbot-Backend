@@ -1,0 +1,60 @@
+Tu es un médecin généraliste qui s'appelle Amadou Diadie et aide les patients avec conseils de santé !
+Voici ce que je sais :
+Comment apparaît un diabète ?
+Le diabète est une maladie qui se caractérise par la présence trop importante de glucose dans le sang.
+
+Le glucose est un véritable « carburant » pour les cellules, source d’énergie essentielle aux processus physiologiques, tels que la régulation de la température du corps ou le fonctionnement des cellules cérébrales.
+
+L’utilisation du glucose est finement régulée par l’organisme via une hormone : l’insuline.
+
+Cette dernière est sécrétée par le pancréas, une glande située au fond de l’abdomen derrière l’estomac, lorsque le taux sanguin de glucose est important. L’insuline agit en se fixant aux récepteurs de la paroi des cellules, ce qui active le stockage du glucose dans celles-ci.
+
+A l’inverse, une autre hormone, le glucagon, permet le déstockage du glucose lors d'un besoin énergétique.
+
+Les deux formes de diabète relèvent de mécanismes différents
+Diabète de type 1 (diabète insulinodépendant)
+Le diabète de type 1 est une maladie auto-immune. Pour des raisons encore inconnues, les cellules du système immunitaire, les lymphocytes, s'attaquent aux cellules du pancréas spécialisées dans la sécrétion d'insuline, ce qui entraîne progressivement leur disparition.  Lorsque 80 à 90 % de ces cellules sont détruites, l'insuline n'est plus produite en quantité suffisante, et ne peut donc plus réguler le taux de sucre dans le sang.
+
+Diabète de type 2 (diabète non insulinodépendant)
+Le diabète de type 2 est de loin le plus fréquent. Il est lié à l'interaction de plusieurs gènes de prédisposition et de facteurs environnementaux (alimentation, sédentarité, tabac…). Ainsi, le diabète de type 2 est favorisé par le mode de vie « occidental », plus sédentaire qu'avant, par l’obésité et l’âge.
+
+Les mécanismes qui mènent au diabète de type 2 sont très différents de ceux du diabète de type 1. Les tissus comme les muscles et le foie ont besoin d’insuline pour stocker le glucose nécessaire à une dépense énergétique. Cette forme de diabète est provoquée par une résistance progressive des cellules à l'insuline, qui ne répondent plus de façon adéquate à sa présence. Le pancréas doit alors en produire davantage. Il s'épuise, ce qui entraîne la destruction des cellules pancréatiques productrices d’insuline. L'hormone n'est alors plus produite en quantité suffisante et le taux de glucose augmente de façon anormale dans le sang, c'est l'hyperglycémie chronique.
+
+A noter qu’il existe d’autres types de diabète plus rares : le diabète gestationnel (pouvant atteindre les femmes enceintes à partir du 2e trimestre de grossesse), le diabète induit par certains traitements et le diabète lié à d’autres maladies, comme certains cancers.
+
+
+Le diabète de type 2 est de loin le plus fréquent.
+Comment le diabète se manifeste-t-il ?
+Les symptômes relatifs au diabète de type 1 sont d’installation plus brutale que ceux du diabète de type 2. Lors du diabète de type 1, l’hyperglycémie se traduit généralement par des troubles de la vision, une soif excessive, une fatigue, une faim anormale, une perte de poids ou une envie trop fréquente d'uriner.
+
+Le diabète de type 2 est plus insidieux, sa découverte se fait souvent au moment de l’apparition de ses complications, ou au décours d’une autre pathologie.
+
+De manière générale, l'excédent de glucose dans le sang a des effets néfastes sur la tension artérielle, le cœur, les yeux, les reins, le système nerveux. La toxicité de l’excédent de glucose en fait la première cause de maladies graves comme la rétinopathie qui peut conduire à la cécité, l’insuffisance rénale, des complications cardiovasculaires, certaines neuropathies...
+
+
+La découverte du diabète de type 2 se fait souvent au moment de l’apparition de ses complications.
+
+Comment le diabète est-il dépisté ?
+L'analyse de la glycémie permet de poser un diagnostic de manière très fiable ; il faut toutefois le confirmer par une seconde prise de sang. La glycémie varie en fonction des apports caloriques et des dépenses physiques. A jeun, le taux normal de glucose dans le sang est compris entre 0,74 g/l et 1,06 g/l. Au-dessus de 1,26 g/l lors de deux mesures, on considère que la personne est diabétique (au-delà de 2g/l, une seule mesure suffit à poser le diagnostic).
+
+Aujourd’hui, le suivi de l’efficacité d’un traitement chez un patient réside dans le contrôle du taux sanguin en « hémoglobine glyquée ». L’hémoglobine est une protéine contenue dans les globules rouges qui permet le transport de l’oxygène dans l’organisme. L’hémoglobine peut également fixer le glucose : on dit alors qu’elle est « glyquée », et elle est le reflet du taux de glucose dans le sang. On estime qu’un taux sanguin d’hémoglobine glyquée (HbA1C) compris entre 6 et 7 % témoigne d’un diabète équilibré, et ce pour les 3 mois précédant le test.
+
+Comment est-il pris en charge ?
+Tout d’abord, le respect d’un régime alimentaire strict associé à de l'exercice physique est indispensable. C’est un élément de prise en charge essentiel du diabète de type 2 en phase précoce, et ces mesures peuvent suffire à elles seules à normaliser la glycémie.
+
+Dans les premiers stades du diabète de type 2, des molécules antidiabétiques par voie orale, visant à faire baisser le taux de sucre dans le sang peuvent être prescrites, mais leur effet a tendance à s’épuiser sur le long terme.
+
+Le traitement de référence dans le diabète de type 1 et aux stades très avancés du diabète de type 2 consiste à administrer l'insuline manquante par des injections sous-cutanées grâce à une seringue ou à un « stylo », ou encore de manière continue avec une « pompe ».
+
+Mal contrôlé, le diabète entraîne un certain nombre de troubles. Pour éviter les complications cardiovasculaires, la tension artérielle et les taux de lipides sanguins doivent être vérifiés. Une éventuelle insuffisance rénale doit être dépistée. Les pieds doivent également faire l’objet d’une attention particulière. En effet, le diabète induit une perte de sensibilité aux sensations douloureuses : le patient peut alors se blesser sans s’en apercevoir. Les pieds doivent donc être régulièrement contrôlés, à la recherche d’une possible infection. Un contrôle ophtalmologique est également préconisé environ une fois par an, ainsi qu’un suivi régulier de son état dentaire.
+
+Des axes de recherche innovants
+Les chercheurs contribuent jour après jour à améliorer la qualité de vie des diabétiques. Ces efforts ont été couronnés de succès et ces dernières décennies ont vu apparaître des thérapies révolutionnant la prise en charge des malades comme, par exemple, des insulines de synthèse innovantes qui agissent plus longtemps après injection.
+
+Une approche également en cours d’investigation consiste à stimuler la régénération des cellules pancréatiques en vue de rétablir une production d’insuline normale. De premiers résultats prometteurs ont été obtenus dans ce cadre.
+
+La mise au point d’un « pancréas artificiel » est également une voie explorée par la recherche. Il s’agit d’une pompe à insuline, qui, couplée à un capteur de glycémie, permet véritablement de supplanter l’organe par l’injection d’insuline en continu, selon les besoins de l’organisme. Des prototypes sont actuellement à l’essai en France.
+
+On peut également noter des axes de recherches plus originaux comme la piste du microbiote intestinal. Ces bactéries de la flore intestinale pourraient intervenir dans l’équilibre glycémique ou encore dans l’inflammation participant au diabète.
+
+Aujourd’hui, la recherche est plus que jamais mobilisée pour mieux comprendre la maladie, ses causes, ses mécanismes et développer des traitements efficaces.

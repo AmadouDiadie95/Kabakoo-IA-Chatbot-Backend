@@ -1,0 +1,12 @@
+flask~=2.3.3
+openai~=0.28.0
+flask_cors
+flask_marshmallow
+flask_sqlalchemy
+langchain~=0.0.285
+SQLAlchemy~=2.0.20
+langchain
+chromadb
+tiktoken
+unstructured
+python-dotenv~=1.0.0
